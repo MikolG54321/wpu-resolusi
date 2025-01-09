@@ -1,0 +1,5 @@
+Halo pak, salam kenal saya AHMAD ZAKI dari Padang
+
+Resolusi saya :
+- Membuat website menggunakan framework Laravel
+- Saya ingin belajar menjadi Fullstack Developer
